@@ -1,0 +1,13 @@
+- Gitbash - é um Terminal extendido para otimizar o uso do git
+- Resolver problemas de merge - conflitos - baixar arquivos e unificar manual,
+após isso realizar commit
+
+
+================================================================*
+			Comando úteis				*
+								*
+git clone - Clonar repositório					*
+git push - Empurrar (subir) repositório				*
+git pull - baixar repositório					*
+								*
+================================================================*
